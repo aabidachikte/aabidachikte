@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="Aabida Chikte - Header Banner" />
+  <img src="https://raw.githubusercontent.com/aabidachikte/aabidachikte/main/header.svg" width="100%" alt="Aabida Chikte - Header Banner" />
 
   <p align="center">
     <a href="mailto:aabidachikte@icloud.com"><img src="https://img.shields.io/badge/Email-aabidachikte%40icloud.com-EA4335?style=flat-square&logo=icloud&logoColor=white" alt="Email"></a>
     <a href="https://github.com/aabidachikte"><img src="https://img.shields.io/badge/GitHub-aabidachikte-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <img src="https://komarev.com/ghpvc/?username=aabidachikte&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/NIT%20Calicut-Computer%20Science-007ACC?style=flat-square" alt="NIT Calicut">
+    <img src="https://img.shields.io/badge/Focus-C%20%2F%20C%2B%2B%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%203D-8A2BE2?style=flat-square" alt="Focus">
   </p>
 </div>
 
